@@ -26,8 +26,8 @@ const Main = () => {
             />
             </h2>
             <div className='flex justify-between pt-6 max-w-[150px] w-full'>
-                <FaLinkedinIn size={20} className='cursor-pointer'/>
-                <FaGithub size={20} className='cursor-pointer'/>
+                <FaLinkedinIn size={20} className='cursor-pointer text-gray-800'/>
+                <FaGithub size={20} className='cursor-pointer text-gray-800'/>
             </div>
             </div>
         </div>
