@@ -13,10 +13,10 @@ const Projects = () => {
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam vel mauris placerat, lobortis purus id, dictum ligula. Phasellus ultrices velit eget enim aliquet rhoncus.
         </p>
         <div className='grid sm:grid-cols-2 gap-12'>
-            <ProjectItem img={blueImg} title='blue'/>
-            <ProjectItem img={yellowImg} title='yellow' />
-            <ProjectItem img={pinkImg} title='pink' />
-            <ProjectItem img={greenImg} title='green'/>
+            <ProjectItem img={blueImg} title='blue app'/>
+            <ProjectItem img={yellowImg} title='yellow app' />
+            <ProjectItem img={pinkImg} title='pink app' />
+            <ProjectItem img={greenImg} title='green app'/>
         </div>
     </div>
   )
