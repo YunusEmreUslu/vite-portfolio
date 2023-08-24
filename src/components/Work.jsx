@@ -9,19 +9,19 @@ const data = [
         details: 'lorem ipsum dolor ist iouasdgiujoagjiosrgajsfio ashf ads9o asioudfj hnw089h asdflkjhn'
     },
     {
-        year: 2020,
+        year: 2021,
         title: 'aragos engineer',
         duration: '3 years',
         details: 'lorem ipsum dolor ist iouasdgiujoagjiosrgajsfio ashf ads9o asioudfj hnw089h asdflkjhn'
     },
     {
-        year: 2020,
+        year: 2022,
         title: 'aragos engineer',
         duration: '3 years',
         details: 'lorem ipsum dolor ist iouasdgiujoagjiosrgajsfio ashf ads9o asioudfj hnw089h asdflkjhn'
     },
     {
-        year: 2020,
+        year: 2023,
         title: 'aragos engineer',
         duration: '3 years',
         details: 'lorem ipsum dolor ist iouasdgiujoagjiosrgajsfio ashf ads9o asioudfj hnw089h asdflkjhn'
